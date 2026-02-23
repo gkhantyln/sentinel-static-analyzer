@@ -1,0 +1,7 @@
+pyqt6>=6.6
+yara-python
+python-magic; sys_platform != "win32"
+python-magic-bin; sys_platform == "win32"
+pefile
+pytest
+requests
